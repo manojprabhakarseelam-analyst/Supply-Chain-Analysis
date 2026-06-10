@@ -2,7 +2,6 @@
 Supply Chain Analysis using SQL, Python, and Power BI
 
 
-# Supply Chain Analysis
 
 ## Project Overview
 
