@@ -88,6 +88,8 @@ Without proper analysis, businesses struggle to identify:
 
 ---
 
+<img width="1372" height="750" alt="Screenshot 2026-09-03 100557" src="https://github.com/user-attachments/assets/81553da2-dc83-4e2c-9ca3-e5eade555137" />
+
 ## Author
 
 Manoj Prabhakar
